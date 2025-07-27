@@ -19,3 +19,7 @@
 - **Platforms**: Raspberry Pi, Windows, Linux (desktop/server)
 - **Other Areas**: Cybersecurity, Offline AI, Camera Vision, Text-to-Speech
 nks for visiting my GitHub! I'm always open to collaboration and helping with cool, useful tech.
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechNomadTalks)](https://github.com/anuraghazra/github-readme-stats)
