@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on future web-based apps, learning tools, and AI-powered platforms.
 - 🤔 I’m looking for help with teaching full-stack development, .NET, and Linux-based projects.
 - 💬 Ask me about simplifying complex code or building affordable, practical solutions for websites and tools.
-- 📫 How to reach me: WhatsApp or email — haynesluke96@gmail.com
+- 📫 How to reach me: Email — haynesluke96@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I genuinely enjoy coding, debugging, and never shy away from helping someone build or fix something.
 
