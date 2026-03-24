@@ -1,24 +1,28 @@
-# 👋 Hi, I'm Luke Dodge
+I'm Luke Dodge, a developer with a focus on designing and building websites. Currently, I'm studying Cybersecurity at La Trobe, expanding my expertise in secure systems and infrastructure.
 
-- 🔭 I’m currently working on designing and developing websites.
-- 🌱 I’m currently learning Cybersecurity @ La Trobe.
-- 👯 I’m looking to collaborate on future web-based apps, learning tools, and AI-powered platforms.
-- 🤔 I’m looking for help with Linux-based projects.
-- 💬 Ask me about simplifying complex code or building affordable, practical solutions for websites and tools.
-- 📫 How to reach me: Email — haynesluke96@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I genuinely enjoy coding, debugging, and never shy away from helping someone build or fix something.
+I'm interested in collaborating on web-based applications, learning tools, and AI-powered platforms. I'm also seeking support for Linux-based projects and always open to discussing ways to simplify complex code or create practical, cost-effective solutions for websites and tools.
+
+You can reach me at haynesluke96@gmail.com.
+Pronouns: He/Him.
+
+I enjoy coding, debugging, and helping others build or improve their projects.
 
 ---
 
 ## 🔧 Tech Stack
 
-- **Languages**: Python, JavaScript, C++, HTML/CSS
-- **Web Dev**: React, TailwindCSS, Supabase, Stripe, Netlify, NextJS
-- **Software & Tools**: Git, Arduino IDE, Flask, Bash, OpenAI API
-- **Platforms**: Raspberry Pi, Windows, Linux (desktop/server)
-- **Other Areas**: Cybersecurity, Offline AI, Camera Vision, Text-to-Speech
-nks for visiting my GitHub! I'm always open to collaboration and helping with cool, useful tech.
+Languages: Python, JavaScript, TypeScript, Java, C++, HTML/CSS
+
+Frontend: React, Next.js, TailwindCSS
+
+Backend & Databases: Flask, Supabase, PostgreSQL, MySQL, REST APIs, full-stack application architecture
+
+DevOps & Hosting: Vercel, Netlify, AWS (EC2, S3, etc.), Git
+
+Tools & Platforms: Arduino IDE, Bash, OpenAI API, Raspberry Pi, Windows, Linux (desktop/server)
+
+Areas of Interest: Ethical hacking, network engineering, application development, machine learning / AI, optimisation
+
 
 ---
 
